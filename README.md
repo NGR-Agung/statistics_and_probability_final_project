@@ -2,8 +2,8 @@
 
 ## 1. Informasi Penyusun
 
-- **Nama:** `I Gusti Agung Widi Adinatha`
-- **NIM:** `2515101110`
+- **Nama:** `I Gusti Ngurah Agung Parama Widagdha Sugriwa`
+- **NIM:** `2515101065`
 - **Program Studi:** `Ilmu Komputer`
 - **Mata Kuliah:** Statistika dan Probabilitas
 
